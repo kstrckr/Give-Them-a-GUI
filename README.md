@@ -1,4 +1,4 @@
-# HeatPype
+# PyPrint
 an Epson Receipt Printer image printing app
 
 presentation materials from talk at Derby Py Feb 28, 2019
